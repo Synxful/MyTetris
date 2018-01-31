@@ -20,7 +20,7 @@ public class Tetris extends JFrame {
         board.start();
 
         setSize(400, 800);
-        setTitle("TETRIS 'brián' EDITION");
+        setTitle("TETRIS \"brián\" EDITION");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 
